@@ -1,0 +1,3 @@
+2 thread ta 500000 mire  sleep am nadare: first: 1510
+1 thread ta 1000000 mire  sleep am nadare: second :624
+2 thread ta 500000 mire  sleep am nadare ba lock: third: 46875
